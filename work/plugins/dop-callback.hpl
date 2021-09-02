@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: dop-callback
+Long-Name: TODO Plugin
+Url: https://github.com/jenkinsci/dop-callback-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-09/02/2021 11:22-dl)
+Hudson-Version: 2.235.1
+Jenkins-Version: 2.235.1
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/dop-callback-plugin
+Libraries: /Users/dl/javawork/dop-callback/src/main/resources,/Users/d
+ l/javawork/dop-callback/target/classes
+Resource-Path: /Users/dl/javawork/dop-callback/src/main/webapp
+
